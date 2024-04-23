@@ -1,0 +1,5 @@
+*.pdf
+chain*.txt
+cov.npy
+*_jump.txt
+jumps.txt
