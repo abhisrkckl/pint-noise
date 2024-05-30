@@ -7,3 +7,4 @@ jumps.txt
 chains/
 *.pickle.gz
 *.png
+*.txt
