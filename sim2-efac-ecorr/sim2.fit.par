@@ -1,0 +1,42 @@
+# Created: 2025-03-18T09:38:42.190451
+# PINT_version: 1.1.1+47.gd723e809
+# User: Abhimanyu Susobhanan (abhimanyu)
+# Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
+# OS: Linux-6.8.0-55-generic-x86_64-with-glibc2.39
+# Python: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
+# Format: pint
+# read_time: 2025-03-18T09:38:08.089340
+# allow_tcb: True
+# convert_tcb: True
+# allow_T2: True
+# original_name: sim2.par
+PSR                                  SIM1
+EPHEM                               DE440
+CLOCK                        TT(BIPM2019)
+UNITS                                 TDB
+START              53000.9999999566961806
+FINISH             56985.0000000464502315
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                 2000
+CHI2                   1883.0275773391395
+CHI2R                  0.9443468291570408
+TRES                1.5197086404438399545
+RAJ                      5:00:00.00000104 1 0.00000328466121041983
+DECJ                    14:59:59.99982230 1 0.00028123945062058064
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0                  100.00000000000000391 1 6.4829077691843467276e-14
+F1              -9.999985179158219317e-16 1 1.4498330625452784089e-21
+F2                                    0.0
+PEPOCH             55000.0000000000000000
+EFAC            tel gbt                       1.3 1 0.0
+ECORR           tel gbt                       0.9 1 0.0
+PLANET_SHAPIRO                          N
+DM                                   15.0
+DM1                                   0.0
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF               4.270930782328634e-07 1 9.669489575160285e-06

@@ -1,0 +1,46 @@
+# Created: 2025-03-18T12:15:41.482557
+# PINT_version: 1.1.1+46.g6e432d1d
+# User: Abhimanyu Susobhanan (abhimanyu)
+# Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
+# OS: Linux-6.8.0-55-generic-x86_64-with-glibc2.39
+# Python: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
+# Format: pint
+# read_time: 2025-03-18T12:13:27.263645
+# allow_tcb: True
+# convert_tcb: True
+# allow_T2: True
+# original_name: sim3.fit.par
+PSR                                  SIM3
+EPHEM                               DE440
+CLOCK                        TT(BIPM2019)
+UNITS                                 TDB
+START              53000.9999999567738310
+FINISH             56985.0000000465556713
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                 2000
+CHI2                    1978.600713375097
+CHI2R                  0.9927750694305554
+TRES                    9.985394290630639
+RAJ                      4:59:59.99999497 1 0.00000000125348542074
+DECJ                    15:00:00.00010959 1 0.00000011045570573314
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+POSEPOCH           55000.0000000000000000
+F0                   99.99999999999954678 1 1.3395803704281160549e-13
+F1              -9.999635786190409336e-16 1 4.6390372454993529015e-20
+F2                                    0.0
+PEPOCH             55000.0000000000000000
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF               0.0001803182381243535 1 0.00022646072857735415
+PLANET_SHAPIRO                          N
+DM                  14.999999885058514337 1 4.7376119468676752407e-06
+DM1                                   0.0
+DMEPOCH            55000.0000000000000000
+TNREDAMP              -12.858658521786019 1 0.06633324052412799
+TNREDGAM               3.5082456500650334 1 0.29094285578806306
+TNREDC                               30.0
+PLREDFREQ             0.09167921686540391

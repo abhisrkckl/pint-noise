@@ -1,0 +1,39 @@
+# Created: 2024-05-30T14:10:48.400357
+# PINT_version: 1.0+180.gb0fcc446
+# User: Abhimanyu Susobhanan (abhimanyu)
+# Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
+# OS: Linux-6.5.0-35-generic-x86_64-with-glibc2.35
+# Python: 3.9.19 (main, May  6 2024, 19:43:03) 
+# [GCC 11.2.0]
+# Format: pint
+PSR                                  SIM3
+EPHEM                               DE440
+CLOCK                        TT(BIPM2019)
+UNITS                                 TDB
+START              53000.9999999568016898
+FINISH             56985.0000000466032176
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                 2000
+CHI2                   120124.61385806235
+CHI2R                  60.303521013083504
+TRES                7.7379924115211799105
+RAJ                      4:59:59.99999189 1 0.00000114521532410266
+DECJ                    14:59:59.99972952 1 0.00009877244421785473
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0                   100.0000000000013254 1 3.664151984552569916e-14
+F1              -1.0000881726814292508e-15 1 4.9480293248862252132e-22
+F2                                    0.0
+PEPOCH             55000.0000000000000000
+PLANET_SHAPIRO                          N
+DM                  15.000049201544472876 1 4.802298755102172071e-06
+DM1              0.0003066776190508614274 1 1.5234554420713454205e-06
+DM2                                   0.0 1
+DM3                                   0.0
+DMEPOCH            55000.0000000000000000
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF             -0.00043893200529636985 1 4.445849984715694e-06

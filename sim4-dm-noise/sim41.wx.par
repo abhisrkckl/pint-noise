@@ -1,0 +1,165 @@
+# Created: 2024-05-21T14:35:30.679635
+# PINT_version: 1.0+102.g56dbd300
+# User: Abhimanyu Susobhanan (abhimanyu)
+# Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
+# OS: Linux-6.5.0-35-generic-x86_64-with-glibc2.35
+# Python: 3.9.19 (main, May  6 2024, 19:43:03) 
+# [GCC 11.2.0]
+# Format: pint
+PSR                                  SIM2
+EPHEM                               DE440
+CLOCK                        TT(BIPM2019)
+UNITS                                 TDB
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                    0
+RAJ                      5:00:00.00000000 1 0.00000000000000000000
+DECJ                    15:00:00.00000000 1 0.00000000000000000000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0                                  100.0 1 0.0
+F1                                 -1e-15 1 0.0
+PEPOCH             55000.0000000000000000
+PLANET_SHAPIRO                          N
+DM                                   15.0
+DMWXEPOCH          55000.0000000000000000
+DMWXFREQ_0001        0.000251004016058609
+DMWXSIN_0001                          0.0 1
+DMWXCOS_0001                          0.0 1
+DMWXFREQ_0002        0.000502008032117218
+DMWXSIN_0002                          0.0 1
+DMWXCOS_0002                          0.0 1
+DMWXFREQ_0003        0.000753012048175827
+DMWXSIN_0003                          0.0 1
+DMWXCOS_0003                          0.0 1
+DMWXFREQ_0004        0.001004016064234436
+DMWXSIN_0004                          0.0 1
+DMWXCOS_0004                          0.0 1
+DMWXFREQ_0005        0.001255020080293045
+DMWXSIN_0005                          0.0 1
+DMWXCOS_0005                          0.0 1
+DMWXFREQ_0006        0.001506024096351654
+DMWXSIN_0006                          0.0 1
+DMWXCOS_0006                          0.0 1
+DMWXFREQ_0007       0.0017570281124102628
+DMWXSIN_0007                          0.0 1
+DMWXCOS_0007                          0.0 1
+DMWXFREQ_0008        0.002008032128468872
+DMWXSIN_0008                          0.0 1
+DMWXCOS_0008                          0.0 1
+DMWXFREQ_0009        0.002259036144527481
+DMWXSIN_0009                          0.0 1
+DMWXCOS_0009                          0.0 1
+DMWXFREQ_0010         0.00251004016058609
+DMWXSIN_0010                          0.0 1
+DMWXCOS_0010                          0.0 1
+DMWXFREQ_0011        0.002761044176644699
+DMWXSIN_0011                          0.0 1
+DMWXCOS_0011                          0.0 1
+DMWXFREQ_0012        0.003012048192703308
+DMWXSIN_0012                          0.0 1
+DMWXCOS_0012                          0.0 1
+DMWXFREQ_0013        0.003263052208761917
+DMWXSIN_0013                          0.0 1
+DMWXCOS_0013                          0.0 1
+DMWXFREQ_0014       0.0035140562248205257
+DMWXSIN_0014                          0.0 1
+DMWXCOS_0014                          0.0 1
+DMWXFREQ_0015        0.003765060240879135
+DMWXSIN_0015                          0.0 1
+DMWXCOS_0015                          0.0 1
+DMWXFREQ_0016        0.004016064256937744
+DMWXSIN_0016                          0.0 1
+DMWXCOS_0016                          0.0 1
+DMWXFREQ_0017        0.004267068272996353
+DMWXSIN_0017                          0.0 1
+DMWXCOS_0017                          0.0 1
+DMWXFREQ_0018        0.004518072289054962
+DMWXSIN_0018                          0.0 1
+DMWXCOS_0018                          0.0 1
+DMWXFREQ_0019        0.004769076305113571
+DMWXSIN_0019                          0.0 1
+DMWXCOS_0019                          0.0 1
+DMWXFREQ_0020         0.00502008032117218
+DMWXSIN_0020                          0.0 1
+DMWXCOS_0020                          0.0 1
+DMWXFREQ_0021        0.005271084337230789
+DMWXSIN_0021                          0.0 1
+DMWXCOS_0021                          0.0 1
+DMWXFREQ_0022        0.005522088353289398
+DMWXSIN_0022                          0.0 1
+DMWXCOS_0022                          0.0 1
+DMWXFREQ_0023        0.005773092369348007
+DMWXSIN_0023                          0.0 1
+DMWXCOS_0023                          0.0 1
+DMWXFREQ_0024        0.006024096385406616
+DMWXSIN_0024                          0.0 1
+DMWXCOS_0024                          0.0 1
+DMWXFREQ_0025        0.006275100401465224
+DMWXSIN_0025                          0.0 1
+DMWXCOS_0025                          0.0 1
+DMWXFREQ_0026        0.006526104417523834
+DMWXSIN_0026                          0.0 1
+DMWXCOS_0026                          0.0 1
+DMWXFREQ_0027        0.006777108433582443
+DMWXSIN_0027                          0.0 1
+DMWXCOS_0027                          0.0 1
+DMWXFREQ_0028        0.007028112449641051
+DMWXSIN_0028                          0.0 1
+DMWXCOS_0028                          0.0 1
+DMWXFREQ_0029        0.007279116465699661
+DMWXSIN_0029                          0.0 1
+DMWXCOS_0029                          0.0 1
+DMWXFREQ_0030         0.00753012048175827
+DMWXSIN_0030                          0.0 1
+DMWXCOS_0030                          0.0 1
+DMWXFREQ_0031        0.007781124497816878
+DMWXSIN_0031                          0.0 1
+DMWXCOS_0031                          0.0 1
+DMWXFREQ_0032        0.008032128513875489
+DMWXSIN_0032                          0.0 1
+DMWXCOS_0032                          0.0 1
+DMWXFREQ_0033        0.008283132529934097
+DMWXSIN_0033                          0.0 1
+DMWXCOS_0033                          0.0 1
+DMWXFREQ_0034        0.008534136545992705
+DMWXSIN_0034                          0.0 1
+DMWXCOS_0034                          0.0 1
+DMWXFREQ_0035        0.008785140562051316
+DMWXSIN_0035                          0.0 1
+DMWXCOS_0035                          0.0 1
+DMWXFREQ_0036        0.009036144578109924
+DMWXSIN_0036                          0.0 1
+DMWXCOS_0036                          0.0 1
+DMWXFREQ_0037        0.009287148594168532
+DMWXSIN_0037                          0.0 1
+DMWXCOS_0037                          0.0 1
+DMWXFREQ_0038        0.009538152610227143
+DMWXSIN_0038                          0.0 1
+DMWXCOS_0038                          0.0 1
+DMWXFREQ_0039        0.009789156626285751
+DMWXSIN_0039                          0.0 1
+DMWXCOS_0039                          0.0 1
+DMWXFREQ_0040         0.01004016064234436
+DMWXSIN_0040                          0.0 1
+DMWXCOS_0040                          0.0 1
+DMWXFREQ_0041         0.01029116465840297
+DMWXSIN_0041                          0.0 1
+DMWXCOS_0041                          0.0 1
+DMWXFREQ_0042        0.010542168674461578
+DMWXSIN_0042                          0.0 1
+DMWXCOS_0042                          0.0 1
+DMWXFREQ_0043        0.010793172690520186
+DMWXSIN_0043                          0.0 1
+DMWXCOS_0043                          0.0 1
+DMWXFREQ_0044        0.011044176706578797
+DMWXSIN_0044                          0.0 1
+DMWXCOS_0044                          0.0 1
+DMWXFREQ_0045        0.011295180722637405
+DMWXSIN_0045                          0.0 1
+DMWXCOS_0045                          0.0 1
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF                                 0.0 1 0.0

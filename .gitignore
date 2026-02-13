@@ -8,3 +8,8 @@ chains/
 *.pickle.gz
 *.png
 *.txt
+*.h5
+*.npy
+summary.json
+*maxpost.par
+*median.par

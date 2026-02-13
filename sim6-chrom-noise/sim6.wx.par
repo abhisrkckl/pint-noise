@@ -1,0 +1,171 @@
+# Created: 2024-08-07T14:26:07.388937
+# PINT_version: 1.0.1+84.gfa6a9d6a
+# User: Abhimanyu Susobhanan (abhimanyu)
+# Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
+# OS: Linux-6.8.0-39-generic-x86_64-with-glibc2.39
+# Python: 3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:38:13) [GCC 12.3.0]
+# Format: pint
+PSR                                  SIM6
+EPHEM                               DE440
+CLOCK                        TT(BIPM2019)
+UNITS                                 TDB
+DILATEFREQ                              N
+DMDATA                                  N
+NTOA                                    0
+RAJ                      5:00:00.00000000 1 0.00000000000000000000
+DECJ                    15:00:00.00000000 1 0.00000000000000000000
+PMRA                                  0.0
+PMDEC                                 0.0
+PX                                    0.0
+F0                                  100.0 1 0.0
+F1                                 -1e-15 1 0.0
+PEPOCH             55000.0000000000000000
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF                                 0.0 1 0.0
+PLANET_SHAPIRO                          N
+DM                                   15.0 1 0.0
+DM1                                0.0001 1 0.0
+DMEPOCH            55000.0000000000000000
+CM                                    1.0 1 0.0
+CM1                                 0.001 1 0.0
+CM2                                 1e-05 1 0.0
+CMEPOCH            55000.0000000000000000
+TNCHROMIDX                            4.0
+CMWXEPOCH          55000.0000000000000000
+CMWXFREQ_0001       0.0002510040160584137
+CMWXSIN_0001                          0.0 1
+CMWXCOS_0001                          0.0 1
+CMWXFREQ_0002       0.0005020080321168274
+CMWXSIN_0002                          0.0 1
+CMWXCOS_0002                          0.0 1
+CMWXFREQ_0003       0.0007530120481752411
+CMWXSIN_0003                          0.0 1
+CMWXCOS_0003                          0.0 1
+CMWXFREQ_0004       0.0010040160642336548
+CMWXSIN_0004                          0.0 1
+CMWXCOS_0004                          0.0 1
+CMWXFREQ_0005       0.0012550200802920685
+CMWXSIN_0005                          0.0 1
+CMWXCOS_0005                          0.0 1
+CMWXFREQ_0006       0.0015060240963504822
+CMWXSIN_0006                          0.0 1
+CMWXCOS_0006                          0.0 1
+CMWXFREQ_0007       0.0017570281124088959
+CMWXSIN_0007                          0.0 1
+CMWXCOS_0007                          0.0 1
+CMWXFREQ_0008       0.0020080321284673096
+CMWXSIN_0008                          0.0 1
+CMWXCOS_0008                          0.0 1
+CMWXFREQ_0009       0.0022590361445257233
+CMWXSIN_0009                          0.0 1
+CMWXCOS_0009                          0.0 1
+CMWXFREQ_0010        0.002510040160584137
+CMWXSIN_0010                          0.0 1
+CMWXCOS_0010                          0.0 1
+CMWXFREQ_0011       0.0027610441766425507
+CMWXSIN_0011                          0.0 1
+CMWXCOS_0011                          0.0 1
+CMWXFREQ_0012       0.0030120481927009644
+CMWXSIN_0012                          0.0 1
+CMWXCOS_0012                          0.0 1
+CMWXFREQ_0013        0.003263052208759378
+CMWXSIN_0013                          0.0 1
+CMWXCOS_0013                          0.0 1
+CMWXFREQ_0014       0.0035140562248177918
+CMWXSIN_0014                          0.0 1
+CMWXCOS_0014                          0.0 1
+CMWXFREQ_0015       0.0037650602408762055
+CMWXSIN_0015                          0.0 1
+CMWXCOS_0015                          0.0 1
+CMWXFREQ_0016        0.004016064256934619
+CMWXSIN_0016                          0.0 1
+CMWXCOS_0016                          0.0 1
+CMWXFREQ_0017        0.004267068272993033
+CMWXSIN_0017                          0.0 1
+CMWXCOS_0017                          0.0 1
+CMWXFREQ_0018       0.0045180722890514466
+CMWXSIN_0018                          0.0 1
+CMWXCOS_0018                          0.0 1
+CMWXFREQ_0019        0.004769076305109861
+CMWXSIN_0019                          0.0 1
+CMWXCOS_0019                          0.0 1
+CMWXFREQ_0020        0.005020080321168274
+CMWXSIN_0020                          0.0 1
+CMWXCOS_0020                          0.0 1
+CMWXFREQ_0021        0.005271084337226688
+CMWXSIN_0021                          0.0 1
+CMWXCOS_0021                          0.0 1
+CMWXFREQ_0022        0.005522088353285101
+CMWXSIN_0022                          0.0 1
+CMWXCOS_0022                          0.0 1
+CMWXFREQ_0023       0.0057730923693435155
+CMWXSIN_0023                          0.0 1
+CMWXCOS_0023                          0.0 1
+CMWXFREQ_0024        0.006024096385401929
+CMWXSIN_0024                          0.0 1
+CMWXCOS_0024                          0.0 1
+CMWXFREQ_0025        0.006275100401460343
+CMWXSIN_0025                          0.0 1
+CMWXCOS_0025                          0.0 1
+CMWXFREQ_0026        0.006526104417518756
+CMWXSIN_0026                          0.0 1
+CMWXCOS_0026                          0.0 1
+CMWXFREQ_0027         0.00677710843357717
+CMWXSIN_0027                          0.0 1
+CMWXCOS_0027                          0.0 1
+CMWXFREQ_0028       0.0070281124496355835
+CMWXSIN_0028                          0.0 1
+CMWXCOS_0028                          0.0 1
+CMWXFREQ_0029        0.007279116465693998
+CMWXSIN_0029                          0.0 1
+CMWXCOS_0029                          0.0 1
+CMWXFREQ_0030        0.007530120481752411
+CMWXSIN_0030                          0.0 1
+CMWXCOS_0030                          0.0 1
+CMWXFREQ_0031        0.007781124497810825
+CMWXSIN_0031                          0.0 1
+CMWXCOS_0031                          0.0 1
+CMWXFREQ_0032        0.008032128513869238
+CMWXSIN_0032                          0.0 1
+CMWXCOS_0032                          0.0 1
+CMWXFREQ_0033        0.008283132529927652
+CMWXSIN_0033                          0.0 1
+CMWXCOS_0033                          0.0 1
+CMWXFREQ_0034        0.008534136545986067
+CMWXSIN_0034                          0.0 1
+CMWXCOS_0034                          0.0 1
+CMWXFREQ_0035         0.00878514056204448
+CMWXSIN_0035                          0.0 1
+CMWXCOS_0035                          0.0 1
+CMWXFREQ_0036        0.009036144578102893
+CMWXSIN_0036                          0.0 1
+CMWXCOS_0036                          0.0 1
+CMWXFREQ_0037        0.009287148594161307
+CMWXSIN_0037                          0.0 1
+CMWXCOS_0037                          0.0 1
+CMWXFREQ_0038        0.009538152610219721
+CMWXSIN_0038                          0.0 1
+CMWXCOS_0038                          0.0 1
+CMWXFREQ_0039        0.009789156626278136
+CMWXSIN_0039                          0.0 1
+CMWXCOS_0039                          0.0 1
+CMWXFREQ_0040        0.010040160642336548
+CMWXSIN_0040                          0.0 1
+CMWXCOS_0040                          0.0 1
+CMWXFREQ_0041        0.010291164658394962
+CMWXSIN_0041                          0.0 1
+CMWXCOS_0041                          0.0 1
+CMWXFREQ_0042        0.010542168674453376
+CMWXSIN_0042                          0.0 1
+CMWXCOS_0042                          0.0 1
+CMWXFREQ_0043         0.01079317269051179
+CMWXSIN_0043                          0.0 1
+CMWXCOS_0043                          0.0 1
+CMWXFREQ_0044        0.011044176706570203
+CMWXSIN_0044                          0.0 1
+CMWXCOS_0044                          0.0 1
+CMWXFREQ_0045        0.011295180722628617
+CMWXSIN_0045                          0.0 1
+CMWXCOS_0045                          0.0 1

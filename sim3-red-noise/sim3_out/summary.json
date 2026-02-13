@@ -1,0 +1,27 @@
+{
+    "input": {
+        "par_file": "sim3.fit.par",
+        "tim_file": "sim3.tim",
+        "jlso_file": null,
+        "prior_file": null,
+        "cheat_prior_scale": 100.0,
+        "truth_par_file": "sim3.par"
+    },
+    "sampler": {
+        "nsteps": 6000,
+        "burnin": 1500,
+        "thin": 100
+    },
+    "env": {
+        "launch_time": "2025-03-18T12:13:27.193117",
+        "user": "abhimanyu",
+        "host": "abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx",
+        "os": "Linux-6.8.0-55-generic-x86_64-with-glibc2.39",
+        "julia_threads": 12,
+        "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]",
+        "julia": "1.11.2",
+        "pyvela": "0.0.6",
+        "pint": "1.1.1+46.g6e432d1d",
+        "emcee": "3.1.6"
+    }
+}

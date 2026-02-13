@@ -1,0 +1,10 @@
+{
+    "EQUAD": {
+        "distribution": "LogUniform",
+        "args": [1e-3, 2.0]
+    },
+    "ECORR": {
+        "distribution": "LogUniform",
+        "args": [1e-3, 2.0]
+    }
+}

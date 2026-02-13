@@ -1,11 +1,11 @@
-# Created: 2025-03-18T10:41:39.220131
-# PINT_version: 1.1.1+46.g6e432d1d
+# Created: 2025-02-07T10:59:19.095575
+# PINT_version: 1.1.1+21.g5e4d4a3a.dirty
 # User: Abhimanyu Susobhanan (abhimanyu)
 # Host: abhimanyu-HP-Envy-x360-2-in-1-Laptop-15-fh0xxx
-# OS: Linux-6.8.0-55-generic-x86_64-with-glibc2.39
+# OS: Linux-6.8.0-52-generic-x86_64-with-glibc2.39
 # Python: 3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:50:58) [GCC 12.3.0]
 # Format: pint
-# read_time: 2025-03-18T10:41:01.918469
+# read_time: 2025-02-07T10:38:19.392587
 # allow_tcb: False
 # convert_tcb: False
 # allow_T2: False
@@ -24,12 +24,12 @@ PX                                    0.0
 F0                                  100.0 1 0.0
 F1                                 -1e-15 1 0.0
 PEPOCH             55000.0000000000000000
-TZRMJD             55000.0000000000000000
-TZRSITE                               gbt
-TZRFRQ                             1400.0
-PHOFF                                 0.0 1 0.0
 TNREDAMP                            -13.0
 TNREDGAM                              3.5
 TNREDC                               30.0
 PLANET_SHAPIRO                          N
 DM                                   15.0 1 0.0
+TZRMJD             55000.0000000000000000
+TZRSITE                               gbt
+TZRFRQ                             1400.0
+PHOFF                                 0.0 1 0.0
